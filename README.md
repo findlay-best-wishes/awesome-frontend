@@ -5,6 +5,7 @@ a list of awesome tools and libraries for frontend
 * [Javascript](#javascript)
 * [Template Engine](#template-engine)
 * [Documentation](#documentation)
+* [File Processor](#file-processor)
 
 ## CSS
 * [Style Dictionary](https://github.com/amzn/style-dictionary) - base design token(JSON form)，generate any platform or languages, eg iOS, Android, CSS, JS, HTML, sketch files, style documentation
@@ -16,4 +17,7 @@ a list of awesome tools and libraries for frontend
 
 ## Documentation
 * [Fractal](https://github.com/frctl/fractal) - a toolkit been used to build component (by hbs) and document (by markdown)
+
+## File Processor
+* [Concat](https://www.npmjs.com/package/concat) - concat mutiple files
 
